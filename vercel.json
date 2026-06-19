@@ -7,7 +7,6 @@
   ],
   "functions": {
     "dist/server/index.mjs": {
-      "runtime": "nodejs20.x",
       "includeFiles": "dist/**"
     }
   }
